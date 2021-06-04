@@ -1,2 +1,2 @@
 
-My master course with 7 projects
+# My master course with 7 projects
